@@ -1,11 +1,12 @@
 {
   "name": "npm-example",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "start": "node helloworld"
   },
   "dependencies": {
-    "send": "^0.16.2"
+    "send": "^0.16.2",
+    "lodash": "4.17.11"
   },
   "devDependencies": {
     "debug": "^4.1.1"
